@@ -1,6 +1,6 @@
 ### Hi there 👋, Zulu Kanwai :sunglasses:
 #### Web Developer(Front-end Developer).
-![Web Developer(Front-end Developer).](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer(Front-end Developer).](https://github.com/ZulurangK/Zulurang/blob/main/Grey%20Business%20Quote%20Banner.png)
 
 I'm passionate about building interactive websites that run across different platforms and devices.
 
