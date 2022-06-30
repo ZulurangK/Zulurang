@@ -1,11 +1,13 @@
-### Hi there 👋, Zulu Kanwai :sunglasses:
-#### Web Developer(Front-end Developer).
+# Hi there:sunglasses:
 ![Web Developer(Front-end Developer).](https://github.com/ZulurangK/Zulurang/blob/main/Grey%20Business%20Quote%20Banner.png)
+
+## Zulu Kanwai
 
 I'm passionate about building interactive websites that run across different platforms and devices.
 
 
-Skills: HTML/CSS/JAVASCRIPT/REACT/
+## Skills: 
+HTML/CSS/JAVASCRIPT/REACT/
 
 - 🔭 I’m currently working on  react, redux and typescript 
 - 🌱 I’m currently learning React 
